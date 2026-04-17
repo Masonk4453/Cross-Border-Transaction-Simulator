@@ -18,3 +18,10 @@ This project analyzes cross border payments from USD to GPB, comparing transfers
 - Improved liquidity effieiency compared to traditional systems
 - ## Tools Used
 - Google Sheets
+
+##  Project File
+- Download the full analysis: XRP vs SWIFT (1).xlsx
+##  Key Insights
+- XRP reduces transaction costs by ~92% compared to SWIFT
+- Settlement time improves from 3–5 days to seconds
+- Improved liquidity efficiency compared to traditional systems
